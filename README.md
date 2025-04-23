@@ -1,4 +1,4 @@
-# Liver-Cancer-Bangladesh 
+# Lung-Cancer-Bangladesh 
 
 # Lung Cancer Survival Prediction Dataset (This dataset is validated form sir salimullah medical college mitford hospital,Dhaka, Bangladesh)
 
